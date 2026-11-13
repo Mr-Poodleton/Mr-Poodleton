@@ -32,4 +32,4 @@ Python | SQL | Git | Ultralytics YOLO | Ollama | Dart | JavaScript
 
 Email: jaynier.gonzaga@tup.edu.ph
 
-LinkedIn: TODO: Add LinkedIn URL
+LinkedIn:
