@@ -3,7 +3,7 @@
 BS Computer Science student at Technological University of the Philippines
 (TUP-Manila), expected 2027 | Aspiring Machine Learning Engineer
 
-Based in Taytay, Rizal | Looking for a Data Analytics / Machine Learning
+Based in Taytay, Rizal | Looking for a Machine Learning
 internship
 
 ## What I work on
