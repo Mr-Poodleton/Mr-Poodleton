@@ -8,7 +8,7 @@ internship
 
 ## What I work on
 
-- Computer vision with YOLOv8: training custom detectors and deploying them in
+- Computer vision with YOLO: training custom detectors and deploying them in
   real apps
 - Data work in Python with Pandas and NumPy, plus SQL with MySQL
 - Applying local LLMs such as Ollama inside working systems
@@ -18,7 +18,7 @@ internship
 - [PesoScan](https://github.com/Mr-Poodleton/peso_scan): mobile currency
   detector for visually impaired users
 - [Vehicle Detection](https://github.com/Mr-Poodleton/vehicle_detection):
-  drone-view vehicle detection and lane counting with YOLOv8
+  drone-view vehicle detection and lane counting with YOLO
 - [AU ABC Chatbot](https://github.com/Mr-Poodleton/au-abc-chatbot): campus
   chatbot for Arellano University, Andres Bonifacio Campus
 - Team projects: TODO: Add links to the friend-owned Barangay Tracking and
@@ -26,7 +26,7 @@ internship
 
 ## Tech
 
-Python | SQL | Git | Ultralytics YOLOv8 | Ollama | Dart | JavaScript
+Python | SQL | Git | Ultralytics YOLO | Ollama | Dart | JavaScript
 
 ## Contact
 
