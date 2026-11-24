@@ -21,8 +21,12 @@ internship
   drone-view vehicle detection and lane counting with YOLO
 - [AU ABC Chatbot](https://github.com/Mr-Poodleton/au-abc-chatbot): campus
   chatbot for Arellano University, Andres Bonifacio Campus
-- Team projects: Barangay Tracking and
-  Library Book Borrowing repositories
+- **Barangay Tracking and Reporting**
+  - [Backend](https://github.com/gulwius/barangay-backend)
+  - [Frontend](https://github.com/gulwius/barangay-frontend)
+- **Library Book Borrowing**
+  - [Backend](https://github.com/gulwius/library-backend-deployment)
+  - [Frontend](https://github.com/gulwius/library-frontend-deployment)
 
 ## Tech
 
