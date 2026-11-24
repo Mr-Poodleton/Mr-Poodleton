@@ -1,7 +1,7 @@
 # Hi, I'm Jaynier V. Gonzaga
 
 BS Computer Science student at Technological University of the Philippines
-(TUP-Manila), expected 2027 | Aspiring Machine Learning Engineer
+(TUP-Manila) | Aspiring Machine Learning Engineer
 
 Based in Taytay, Rizal | Looking for a Machine Learning
 internship
@@ -30,6 +30,6 @@ Python | SQL | Git | Ultralytics YOLO | Ollama | Dart | JavaScript
 
 ## Contact
 
-Email: jaynier.gonzaga@tup.edu.ph
+Email: gonzagajaynier2004@gmail.com
 
-LinkedIn:
+LinkedIn: www.linkedin.com/in/jaynier-gonzaga
